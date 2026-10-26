@@ -20,7 +20,7 @@ I focus on understanding system concepts and business logic first, using the rig
 
 When I'm not writing Java, thinking through system architecture, or other classic dev struggles:
 - 🧉 Programming with a warm *mate* by my side.
-- 📚 Lost in heavy romance books (the reading list remains classified 🤫).
+- 📚 Lost in romance books ❤️📖.
 - 🧶 Knitting, painting, and working on creative offline projects.
 - 🌱 Caring for my plant collection.
 
